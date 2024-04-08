@@ -1,0 +1,22 @@
+.left{
+    position: absolute;
+    left: 0;
+    top: 10%;
+}
+.right{
+    position: absolute;
+    right: 0;
+    top: 70%;
+}
+
+
+.left>div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.right>div{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
